@@ -1,11 +1,11 @@
-# Initiation à Netlify
+# Netlify introduction
 
 ## Instructions
 
-* Forke le projet sur ton compte GitHub
+* Fork the project on your own GitHub account
 
-* Déploie le projet sur Netlify
+* Deploy the project on Netlify
 
-## Déploiement
+## Deployment
 
-* Lien vers le site déployé sur Netlify : 
+* Link to the website deployed on Netlify : [Link]()
