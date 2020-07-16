@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://musing-jang-0fe9a0.netlify.app]()
+* Link to the website deployed on Netlify : https://musing-jang-0fe9a0.netlify.app/
